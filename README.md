@@ -1,7 +1,24 @@
-# Bookmarks Hub
+<p align="center">
+  <a href="https://github.com/moazelgandy2" target="_blank" rel="noopener">
+    <img src="https://moazelgandy2.github.io/Bookmarks-Hub/small-bookmark-svgrepo-com.svg" width="50%" alt="Logo">
+  </a>
+</p>
 
-A simple and convenient way to manage your website bookmarks.
+<h3 align="center">
+  [Introduction](#introduction) •
+  <a href="https://manticoresearch.com/install/">Downloads</a> •
+  <a href="https://manual.manticoresearch.com">Docs</a> •
+  <a href="https://manticoresearch.com/blog/">Blog</a> •
+  <a href="https://play.manticoresearch.com">Courses</a> •
+  <a href="https://forum.manticoresearch.com">Forum</a> •
+  <a href="https://slack.manticoresearch.com">Slack</a> •
+  <a href="https://t.me/manticoresearch_en">Telegram (En)</a> •
+  <a href="https://t.me/manticore_chat">Telegram (Ru)</a> •
+  <a href="https://twitter.com/manticoresearch">Twitter</a>
+  <a href="https://github.com/manticoresoftware/manticoresearch/discussions/categories/feedback">User feedback</a>
+</h3>
 
+<p>&nbsp;</p>
 ## Table of Contents
 
 - [Introduction](#introduction)
