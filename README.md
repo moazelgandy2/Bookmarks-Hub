@@ -14,7 +14,7 @@ A simple and convenient way to manage your website bookmarks.
 
 ## Introduction
 
-Bookmarks Hub is a web application that allows users to easily manage their website bookmarks. It provides a centralized platform to store, organize, - [LiveDemo](#livedemo)and access bookmarks.
+Bookmarks Hub is a web application that allows users to easily manage their website bookmarks. It provides a centralized platform to store, organize, and access bookmarks.
 
 ## Livedemo
 
