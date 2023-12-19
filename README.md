@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/moazelgandy2" target="_blank" rel="noopener">
-    <img src="https://moazelgandy2.github.io/Bookmarks-Hub/bookmark-white" width="20%" alt="Logo">
+    <img src="https://moazelgandy2.github.io/Bookmarks-Hub/bookmark-white.svg" width="20%" alt="Logo">
   </a>
 </p>
 
