@@ -6,11 +6,11 @@
 
 <h3 align="center">
   <a href="#introduction">Introduction</a> •
-  <a href="#livedemo">LiveDemo</a> •
-  <a href="#Gallery">Gallery</a> •
+  <a href="#livedemo">Live Demo</a> •
+  <a href="#gallery">Gallery</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
-  <a href="#installation">Usage</a> •
+  <a href="#usage">Usage</a> •
   <a href="#contributing">Contributing</a>
 </h3>
 
@@ -20,27 +20,27 @@
 
 Bookmarks Hub is a web application that allows users to easily manage their website bookmarks. It provides a centralized platform to store, organize, and access bookmarks.
 
-## Livedemo
+## Live Demo
 
 [LiveDemo](https://moazelgandy2.github.io/Bookmarks-Hub/)
 
 ## Gallery
 
- <h4>Add Bookmark</h4>
+### Add Bookmark
 
-![add](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/6d4c533f-31e6-4312-b8b7-7837895f877a)
+![Add Bookmark](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/6d4c533f-31e6-4312-b8b7-7837895f877a)
 
-  <h4>Update Bookmark</h4>
+### Update Bookmark
 
-![update](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/092d448c-3a85-41fd-91e6-3cf43b53f1c0)
+![Update Bookmark](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/092d448c-3a85-41fd-91e6-3cf43b53f1c0)
 
-  <h4>Delete Bookmark</h4>
-  
-![delete](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d423167a-7679-4332-8f37-c6b5ef061f6e)
+### Delete Bookmark
 
-  <h4>Search Bookmark</h4>
+![Delete Bookmark](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d423167a-7679-4332-8f37-c6b5ef061f6e)
 
-![search](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/958119a0-baea-4066-9c72-a73d1159563a)
+### Search Bookmark
+
+![Search Bookmark](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/958119a0-baea-4066-9c72-a73d1159563a)
 
 ## Features
 
