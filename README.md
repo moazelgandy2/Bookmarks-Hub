@@ -7,6 +7,7 @@
 <h3 align="center">
   <a href="#introduction">Introduction</a> •
   <a href="#livedemo">LiveDemo</a> •
+  <a href="#Gallery">Gallery</a> •
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#installation">Usage</a> •
