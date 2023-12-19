@@ -1,4 +1,4 @@
-<p align="center">
+![delete](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/72c00dfc-9b3e-4818-95b9-9e5b21418793)<p align="center">
   <a href="https://github.com/moazelgandy2" target="_blank" rel="noopener">
     <img src="https://moazelgandy2.github.io/Bookmarks-Hub/bookmark-white.svg" width="20%" alt="Logo">
   </a>
@@ -39,6 +39,12 @@ Bookmarks Hub is a web application that allows users to easily manage their webs
   <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/958119a0-baea-4066-9c72-a73d1159563a" width="400">
 
 </div>
+
+![update](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d32507be-99c6-402c-ba09-0c7944a50e33)
+![search](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/7b19f434-6e7e-43b9-8014-8911f997e77c)
+![add](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/16190005-abbb-41b5-ba5c-71477fa40430)
+![delete](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/69ed0122-aa37-4f44-af37-4b372e8d76b4)
+
 
 ## Features
 
