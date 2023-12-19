@@ -32,8 +32,12 @@ Bookmarks Hub is a web application that allows users to easily manage their webs
 
   <h4>Update Bookmark</h4>
 
+![update](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/092d448c-3a85-41fd-91e6-3cf43b53f1c0)
+
   <h4>Delete Bookmark</h4>
   
+![delete](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d423167a-7679-4332-8f37-c6b5ef061f6e)
+
   <h4>Search Bookmark</h4>
 
 ![search](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/958119a0-baea-4066-9c72-a73d1159563a)
