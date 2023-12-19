@@ -5,6 +5,7 @@ A simple and convenient way to manage your website bookmarks.
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [LiveDemo](#livedemo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
