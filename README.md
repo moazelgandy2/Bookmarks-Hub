@@ -17,12 +17,12 @@ Bookmarks Hub is a web application that allows users to easily manage their webs
 
 ## Features
 
-- ![Icon](https://cdn.example.com/create-icon.png) Create website bookmarks
-- ![Icon](https://cdn.example.com/delete-icon.png) Delete website bookmark
-- ![Icon](https://cdn.example.com/search-icon.png) Search bookmarks
-- ![Icon](https://cdn.example.com/edit-icon.png) Edit existing bookmarks
-- ![Icon](https://cdn.example.com/store-icon.png) Store bookmarks in local storage
-- ![Icon](https://cdn.example.com/validate-icon.png) Validate URLs before storing
+- Create website bookmarks ➕
+- Delete website bookmark ❌
+- Search bookmarks 🔍
+- Edit existing bookmarks 🖋️
+- Store bookmarks in local storage 🗃️
+- Validate URLs before storing ✔️
 
 ## Installation
 
