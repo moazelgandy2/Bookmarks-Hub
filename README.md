@@ -52,6 +52,3 @@ To install Bookmarks Hub, follow these steps:
 
 Contributions are welcome. Please open an issue or submit a pull request.
 
-
-https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/41d40adb-ed0b-4301-8733-e87006d372a5
-
