@@ -13,42 +13,37 @@ A simple and convenient way to manage your website bookmarks.
 
 ## Introduction
 
-Websites Bookmarks Hub is a web application that allows users to easily manage their website bookmarks. It provides a centralized platform to store, organize, and access bookmarks.
+Bookmarks Hub is a web application that allows users to easily manage their website bookmarks. It provides a centralized platform to store, organize, and access bookmarks.
 
 ## Features
 
-- Create website bookmarks
-- Delete website bookmark
-- Search bookmarks
-- Edit exist bookmarks
+- ![Icon](https://cdn.example.com/create-icon.png) Create website bookmarks
+- ![Icon](https://cdn.example.com/delete-icon.png) Delete website bookmark
+- ![Icon](https://cdn.example.com/search-icon.png) Search bookmarks
+- ![Icon](https://cdn.example.com/edit-icon.png) Edit existing bookmarks
+- ![Icon](https://cdn.example.com/store-icon.png) Store bookmarks in local storage
+- ![Icon](https://cdn.example.com/validate-icon.png) Validate URLs before storing
 
 ## Installation
 
-To install Websites Bookmarks Hub, follow these steps:
+To install Bookmarks Hub, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/moazelgandy2/Bookmarks-Hub/`
 2. cd into the Bookmarks-Hub
-3. Opne the index.html file
+3. Open the index.html file
 
 ## Usage
 
-Once the application is running, you can access it through your web browser. Here are some common tasks you can perform:
-
-- Create a new website bookmark: Click on the "Add Bookmark" button and fill in the required details.
-- Delete exsiting website bookmark: Click the delete button under the website url
-- Search for bookmarks: Use the search bar to find specific bookmarks based on keywords or tags.
-- Update existing webiste: Click the delete button under the website url
+- Click on the "New" button to open the input form.
+- Enter the site name and URL and click "Save" to store the bookmark.
+- Click "Edit" on a bookmark card to modify the site name or URL. Click "Update" to save changes.
+- Click "Delete" on a bookmark card to remove the bookmark.
+- Use the search bar to filter bookmarks by site name.
 
 ## Contributing
 
-We welcome contributions from the community to improve Websites Bookmarks Hub. If you would like to contribute, please follow these guidelines:
-
-- Fork the repository and create a new branch for your feature or bug fix.
-- Make your changes and ensure that the tests pass.
-- Submit a pull request with a clear description of your changes.
-
-Please refer to the [Contributing Guidelines](./CONTRIBUTING.md) for more information.
+Contributions are welcome. Please open an issue or submit a pull request.
 
 ## License
 
-Websites Bookmarks Hub is licensed under the [MIT License](./LICENSE). See the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the MIT License.
