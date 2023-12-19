@@ -1,7 +1,8 @@
-![delete](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/72c00dfc-9b3e-4818-95b9-9e5b21418793)<p align="center">
+<p align="center">
   <a href="https://github.com/moazelgandy2" target="_blank" rel="noopener">
-    <img src="https://moazelgandy2.github.io/Bookmarks-Hub/bookmark-white.svg" width="20%" alt="Logo">
+  <img src="https://moazelgandy2.github.io/Bookmarks-Hub/bookmark-white.svg" width="20%" alt="Logo">
   </a>
+
 </p>
 
 <h3 align="center">
@@ -28,23 +29,17 @@ Bookmarks Hub is a web application that allows users to easily manage their webs
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/6d4c533f-31e6-4312-b8b7-7837895f877a" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/16190005-abbb-41b5-ba5c-71477fa40430" width="400">
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/092d448c-3a85-41fd-91e6-3cf43b53f1c0" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d32507be-99c6-402c-ba09-0c7944a50e33" width="400">
 
 <hr>
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d423167a-7679-4332-8f37-c6b5ef061f6e" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/7b19f434-6e7e-43b9-8014-8911f997e77c" width="400">
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/958119a0-baea-4066-9c72-a73d1159563a" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/69ed0122-aa37-4f44-af37-4b372e8d76b4" width="400">
 
 </div>
-
-![update](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d32507be-99c6-402c-ba09-0c7944a50e33)
-![search](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/7b19f434-6e7e-43b9-8014-8911f997e77c)
-![add](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/16190005-abbb-41b5-ba5c-71477fa40430)
-![delete](https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/69ed0122-aa37-4f44-af37-4b372e8d76b4)
-
 
 ## Features
 
