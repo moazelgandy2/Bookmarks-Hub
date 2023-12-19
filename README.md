@@ -29,15 +29,15 @@ Bookmarks Hub is a web application that allows users to easily manage their webs
 
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/16190005-abbb-41b5-ba5c-71477fa40430" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/16190005-abbb-41b5-ba5c-71477fa40430" width="600">
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d32507be-99c6-402c-ba09-0c7944a50e33" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/d32507be-99c6-402c-ba09-0c7944a50e33" width="600">
 
 <hr>
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/7b19f434-6e7e-43b9-8014-8911f997e77c" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/7b19f434-6e7e-43b9-8014-8911f997e77c" width="600">
 
-  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/69ed0122-aa37-4f44-af37-4b372e8d76b4" width="400">
+  <img src="https://github.com/moazelgandy2/Bookmarks-Hub/assets/56883008/69ed0122-aa37-4f44-af37-4b372e8d76b4" width="600">
 
 </div>
 
