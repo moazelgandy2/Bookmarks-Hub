@@ -5,29 +5,15 @@
 </p>
 
 <h3 align="center">
-<a href="#livedemo">LiveDemo</a> •
-<a href="https://manual.manticoresearch.com">Docs</a> •
-<a href="https://manticoresearch.com/blog/">Blog</a> •
-<a href="https://play.manticoresearch.com">Courses</a> •
-<a href="https://forum.manticoresearch.com">Forum</a> •
-<a href="https://slack.manticoresearch.com">Slack</a> •
-<a href="https://t.me/manticoresearch_en">Telegram (En)</a> •
-<a href="https://t.me/manticore_chat">Telegram (Ru)</a> •
-<a href="https://twitter.com/manticoresearch">Twitter</a>
-<a href="https://github.com/manticoresoftware/manticoresearch/discussions/categories/feedback">User feedback</a>
-
+  <a href="#introduction">Introduction</a> •
+  <a href="#livedemo">LiveDemo</a> •
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#installation">Usage</a> •
+  <a href="#contributing">Contributing</a>
 </h3>
 
 <p>&nbsp;</p>
-## Table of Contents
-
-- [Introduction](#introduction)
-- [LiveDemo](#livedemo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
