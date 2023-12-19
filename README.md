@@ -5,7 +5,6 @@ A simple and convenient way to manage your website bookmarks.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [LiveDemo](#livedemo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -28,9 +27,8 @@ Bookmarks Hub is a web application that allows users to easily manage their webs
 - Edit existing bookmarks 🖋️
 - Store bookmarks in local storage 🗃️
 - Validate URLs before storing ✔️
-- [LiveDemo](#livedemo)
 
-## Installation- [LiveDemo](#livedemo)
+## Installation
 
 To install Bookmarks Hub, follow these steps:
 
