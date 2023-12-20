@@ -35,8 +35,6 @@ body {
 }
 footer {
   background-color: #fff;
-  /* position: fixed; */
-  /* margin-top: 50px; */
 }
 @media screen and (max-width: 991px) {
   .my-md {
