@@ -15,6 +15,11 @@ nav {
 .btn-outline-secondary:hover {
   background-color: #f0eeee !important;
 }
+
+.toast {
+  right: 2%;
+  z-index: 50;
+}
 footer {
   background-color: #fff;
   position: fixed;
@@ -26,5 +31,23 @@ footer {
 @media screen and (max-width: 991px) {
   .my-md {
     margin-top: 15px;
+  }
+  .toast {
+    width: 40%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .toast {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 575px) {
+  .toast {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .toast {
+    width: 90%;
   }
 }

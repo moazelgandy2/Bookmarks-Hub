@@ -6,9 +6,12 @@ const siteUrl = document.querySelector("#siteUrl");
 const siteName = document.querySelector("#siteName");
 const bookmarks = document.querySelector(".bookmarks");
 const search = document.querySelector("#search");
+const alert = document.querySelector(".toast");
+const alertBody = document.querySelector(".toast-body");
 
 let site = { name: "", url: "" };
 let slectedIndex;
+let msg;
 
 newBtn.addEventListener("click", function () {
   reset();
@@ -54,7 +57,8 @@ function store() {
   saveToLocalStorage();
 
   display(sites);
-
+  msg = 'The site "' + site.name + '" has been added successfully';
+  displayAlert(msg);
   reset();
 }
 
@@ -80,6 +84,16 @@ function display(sites) {
   bookmarks.innerHTML = card;
 }
 
+function displayAlert(msg) {
+  alert.classList.add("show");
+
+  alertBody.innerHTML = msg;
+
+  setTimeout(function () {
+    alert.classList.remove("show");
+  }, 2500);
+}
+
 function saveToLocalStorage() {
   localStorage.setItem("sites", JSON.stringify(sites));
 }
@@ -100,6 +114,10 @@ function update() {
   saveToLocalStorage();
 
   display(sites);
+
+  msg = "The site  has been updated successfully";
+
+  displayAlert(msg);
 
   reset();
 }
@@ -125,6 +143,8 @@ function deleteSite(index) {
   saveToLocalStorage();
 
   display(sites);
+  msg = "The site has been deleted successfully";
+  displayAlert(msg);
 }
 
 function searchSite() {
@@ -155,7 +175,7 @@ function validateURL(url) {
     /^(https?:\/\/)?(www\.)?([a-zA-Z0-9-]+\.[a-zA-Z]{2,})(\/\S*)?$/;
 
   if (!urlRegex.test(url)) {
-    alert("Please enter a valid URL");
+    window.alert("Please enter a valid URL");
     return false;
   }
 
@@ -177,7 +197,7 @@ function validateURL(url) {
   ]; // Add more extensions as needed
 
   if (!validDomains.some((ext) => domain.endsWith(ext))) {
-    alert(
+    window.alert(
       "Please enter a URL with a valid domain extension (e.g., .com, .net, .co, .eg)"
     );
     return false;
