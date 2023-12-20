@@ -9,10 +9,10 @@
       type="image/x-icon"
     />
 
-    <link
+    <!-- <link
       href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
       rel="stylesheet"
-    />
+    /> -->
     <link rel="stylesheet" href="./css/bootstrap.min.css" />
     <link rel="stylesheet" href="./css/style.min.css" / >
 
@@ -50,10 +50,19 @@
         </div>
       </div>
     </nav>
-    <div class="container mt-3">
+    <div class="container content mt-3">
       <div class="row">
-        <div role="alert" class="toast position-absolute">
-          <div class="toast-header">
+        <div role="alert" class="toast position-absolute bg-success">
+          <div class="toast-header bg-success">
+            <strong class="me-auto">Bookmark Hub</strong>
+          </div>
+          <div class="toast-body"></div>
+        </div>
+        <div
+          role="alert"
+          class="toast alert-delete position-absolute bg-danger"
+        >
+          <div class="toast-header bg-danger">
             <strong class="me-auto">Bookmark Hub</strong>
           </div>
           <div class="toast-body"></div>
@@ -66,7 +75,7 @@
         </div>
       </div>
       <div class="row d-none" id="inputs">
-        <div class="col-5">
+        <div class="col-4 col-md-5">
           <input
             type="text"
             id="siteName"
@@ -75,7 +84,7 @@
           />
         </div>
 
-        <div class="col-5">
+        <div class="col-4 col-md-5">
           <input
             type="text"
             id="siteUrl"

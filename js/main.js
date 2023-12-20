@@ -7,7 +7,8 @@ const siteName = document.querySelector("#siteName");
 const bookmarks = document.querySelector(".bookmarks");
 const search = document.querySelector("#search");
 const alert = document.querySelector(".toast");
-const alertBody = document.querySelector(".toast-body");
+const deleteAlert = document.querySelector(".alert-delete");
+const alertBody = document.querySelectorAll(".toast-body");
 
 let site = { name: "", url: "" };
 let slectedIndex;
@@ -85,12 +86,19 @@ function display(sites) {
 }
 
 function displayAlert(msg) {
-  alert.classList.add("show");
+  if (msg.includes("deleted")) {
+    deleteAlert.classList.add("show");
+  } else {
+    alert.classList.add("show");
+  }
 
-  alertBody.innerHTML = msg;
+  for (let i = 0; i < alertBody.length; i++) {
+    alertBody[i].innerHTML = msg;
+  }
 
   setTimeout(function () {
     alert.classList.remove("show");
+    deleteAlert.classList.remove("show");
   }, 2500);
 }
 
