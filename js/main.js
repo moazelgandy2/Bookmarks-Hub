@@ -135,6 +135,7 @@ function updateForm(index) {
   if (searchResult != []) {
     index = sites.indexOf(searchResult[index]);
   }
+
   inputs.classList.replace("d-none", "d-flex");
 
   updateBtn.classList.replace("d-none", "d-flex");
