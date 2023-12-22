@@ -76,8 +76,8 @@ function display(sites) {
                 <a href="https://${sites[i].url}" target="_blank">${sites[i].url} <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
               </p>
               <div class="btns d-flex justify-content-start">
-                <button onclick=(updateForm(${i})) href="#" class="btn btn-sm btn-primary me-1">Edit</button>
-                <button onclick=(deleteSite(${i})) href="#" class="btn btn-sm btn-outline-secondary">Delete</button>
+                <button  id="updateBtn" onclick=(updateForm(${i})) href="#" class="btn btn-sm btn-primary me-1">Edit</button>
+                <button id="deleteBtn" onclick=(deleteSite(${i})) href="#" class="btn btn-sm btn-outline-secondary">Delete</button>
               </div>
             </div>
           </div>
