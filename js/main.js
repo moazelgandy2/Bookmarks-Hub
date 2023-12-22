@@ -9,6 +9,7 @@ const search = document.querySelector("#search");
 const alert = document.querySelector(".toast");
 const deleteAlert = document.querySelector(".alert-delete");
 const alertBody = document.querySelectorAll(".toast-body");
+let searchResult = [];
 
 let site = { name: "", url: "" };
 let slectedIndex;
@@ -131,6 +132,9 @@ function update() {
 }
 
 function updateForm(index) {
+  if (searchResult != []) {
+    index = sites.indexOf(searchResult[index]);
+  }
   inputs.classList.replace("d-none", "d-flex");
 
   updateBtn.classList.replace("d-none", "d-flex");
@@ -144,6 +148,10 @@ function updateForm(index) {
 }
 
 function deleteSite(index) {
+  if (searchResult != []) {
+    index = sites.indexOf(searchResult[index]);
+  }
+
   console.log("%c" + sites[index].name + " Has been deleted", "color: red");
 
   sites.splice(index, 1);
@@ -151,19 +159,21 @@ function deleteSite(index) {
   saveToLocalStorage();
 
   display(sites);
+
   msg = "The site has been deleted successfully";
+
   displayAlert(msg);
 }
 
 function searchSite() {
   let term = search.value.toLowerCase();
-  let searchResult = [];
+  searchResult = []; // Clear the searchResult array before performing the search
   for (let i = 0; i < sites.length; i++) {
     if (sites[i].name.toLowerCase().includes(term)) {
       searchResult.push(sites[i]);
     }
   }
-
+  console.log(searchResult);
   display(searchResult);
 }
 
