@@ -132,7 +132,7 @@ function update() {
 }
 
 function updateForm(index) {
-  if (searchResult != []) {
+  if (searchResult != 0) {
     index = sites.indexOf(searchResult[index]);
   }
 
@@ -149,7 +149,7 @@ function updateForm(index) {
 }
 
 function deleteSite(index) {
-  if (searchResult != []) {
+  if (searchResult != 0) {
     index = sites.indexOf(searchResult[index]);
   }
 
@@ -213,7 +213,7 @@ function validateURL(url) {
     ".store",
     ".online",
     ".live",
-  ]; // Add more extensions as needed
+  ];
 
   if (!validDomains.some((ext) => domain.endsWith(ext))) {
     window.alert(
