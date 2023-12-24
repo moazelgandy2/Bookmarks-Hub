@@ -153,8 +153,6 @@ function deleteSite(index) {
     index = sites.indexOf(searchResult[index]);
   }
 
-  console.log("%c" + sites[index].name + " Has been deleted", "color: red");
-
   sites.splice(index, 1);
 
   saveToLocalStorage();
@@ -164,6 +162,8 @@ function deleteSite(index) {
   msg = "The site has been deleted successfully";
 
   displayAlert(msg);
+
+  console.log("%c" + sites[index].name + " Has been deleted", "color: red");
 }
 
 function searchSite() {
