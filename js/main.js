@@ -162,8 +162,6 @@ function deleteSite(index) {
   msg = "The site has been deleted successfully";
 
   displayAlert(msg);
-
-  console.log("%c" + sites[index].name + " Has been deleted", "color: red");
 }
 
 function searchSite() {
@@ -188,8 +186,6 @@ function reset() {
 }
 
 //! Vlidation functions
-
-
 
 function validateURL(url) {
   const urlRegex =
